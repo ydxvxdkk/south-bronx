@@ -21,7 +21,7 @@ local Window = Rayfield:CreateWindow({
         Note = "To get the key, add ydxvxd.xyz on discord",
         FileName = "MAGMA HUB KEY",
         SaveKey = true, -- Key won't be saved permanently
-        GrabKeyFromSite = true,
+        GrabKeyFromSite = false,
         Key = {"https://pastebin.com/8CNh8LDk"} -- List of accepted keys or key URLs
     }
 })
