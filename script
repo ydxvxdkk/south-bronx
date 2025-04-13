@@ -1,13 +1,13 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "MAGMA HUB | Paid Script | South Bronx: The Trenches❗",
-   LoadingTitle = "MAGMA's Paid Script",
+   Name = "yDxvxd | Paid Script | South Bronx: The Trenches❗",
+   LoadingTitle = "yDxvxd's Paid Script",
    LoadingSubtitle = "Created by yDxvxd",
    ConfigurationSaving = {
       Enabled = true,
       FolderName = nil, -- Create a custom folder for your hub/game
-      FileName = "MAGMA Hub"
+      FileName = "yDxvxd Hub"
    },
     Discord = {
         Enabled = true,
